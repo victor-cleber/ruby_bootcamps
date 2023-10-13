@@ -12,3 +12,8 @@ VALUES('Chevrolet'),
 ('Renault'),
 ('Honda'),
 ('Fiat');
+
+SELECT * FROM car_brand;
+
+
+--DROP TABLE IF EXISTS car_brand;

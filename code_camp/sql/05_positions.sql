@@ -1,5 +1,5 @@
-CREATE TABEL positions(
-    id INTEGER PRIMARY KEY AUTOINCREMENT
+CREATE TABLE positions(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     description VARCHAR(120)
 );
 
@@ -9,3 +9,7 @@ VALUES('Gerente de vendas'),
 ('Vendedor'),
 ('Mecânico'),
 ('Assistente Administrativo');
+
+SELECT * FROM positions;
+
+--DROP TABLE IF EXISTS positions;

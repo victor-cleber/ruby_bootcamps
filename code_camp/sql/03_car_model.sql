@@ -14,3 +14,7 @@ VALUES('Conversível'),
 ('Minivan'),
 ('Utilitário'),
 ('Buggy');
+
+SELECT * FROM car_models;
+
+--DROP TABLE IF EXISTS car_models;
