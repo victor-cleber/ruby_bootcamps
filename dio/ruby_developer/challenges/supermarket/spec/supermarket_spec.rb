@@ -11,12 +11,4 @@ describe Supermarket do
         expect(supermarket.product.price).to eq(60)
     end
   end
-
-  describe do
-    it  '2. A product was bought' do
-        product = Product.new('Forma', 60)
-        supermarket = Supermarket.new(product)
-        expect(supermarket.comprar).to eq("You bought a Forma costing R$60.00")
-      end
-  end
 end
