@@ -1,24 +1,24 @@
 resultado = ''
 loop do
     puts resultado
-    puts 'Selecione uma opcao: '
-    puts '1 - Qual a idade da pessoa? '
-    puts '0 - Sair'
-    print 'Digite sua escolha: '
+    puts 'Select an option: '
+    puts '1 - Age '
+    puts '0 - Exit'
+    print 'Enter your choice: '
 
     opcao = gets.chomp.to_i
 
     if opcao == 1
-        print 'Digite o ano de nascimento: '
+        print 'Enther the year of birth: '
         ano_nascimento = gets.chomp.to_i
-        print 'Digite o ano atual: '
+        print 'Inform the current year: '
         ano_atual  = gets.chomp.to_i
         idade = ano_atual - ano_nascimento
-        resultado = "Quem nasceu no ano de #{ano_nascimento} tem #{idade} anos em #{ano_atual}."
+        resultado = "Anyone born in #{ano_nascimento} is #{idade} years old in #{ano_atual}."
     elsif opcao == 0
         break if opcao ==0
     else
-        resultado = 'Opcao invalida'        
+        resultado = 'Invalid option!'        
     end
     system "clear"
 end
