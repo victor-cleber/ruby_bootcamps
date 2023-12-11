@@ -21,7 +21,7 @@ This material is free for using, but none are at the appropriate level for use i
 | [Cookbook](https://github.com/victor-cleber/ruby_bootcamps/tree/main/dio/ruby_developer/challenges/cookbook)            | Console App |
 | [CPF Validation](https://github.com/victor-cleber/ruby_bootcamps/tree/main/dio/ruby_developer/challenges/cpf_validation)            |Console App        |
 | [Cookbook](https://github.com/victor-cleber/ruby_bootcamps/tree/main/dio/ruby_developer/challenges/cookbook)            | Console App |
-| [School](https://github.com/victor-cleber/ruby_bootcamps/tree/main/dio/ruby_developer/challenges/scholl)            | Console App |
+| [School](https://github.com/victor-cleber/ruby_bootcamps/tree/main/dio/ruby_developer/challenges/school)            | Console App |
 | [Supermarket](https://github.com/victor-cleber/ruby_bootcamps/tree/main/dio/ruby_developer/challenges/supermarket)            | Console App |
 
 
