@@ -14,11 +14,18 @@ This material is free for using, but none are at the appropriate level for use i
  If you need a professional with these experiences, please contact me by my social networks.
 </p>
 
-## Technologies
-
+## Projects
 | Folder                         | Description                                              |
 | :----------------------------- | :------------------------------------------------------- |
-| [Ruby Developer](https://github.com/victor-cleber/dio_bootcamps/tree/main/ruby_developer)     | Bootcamp  |platform       |
+| [City Library](https://github.com/victor-cleber/dio_bootcamps/tree/main/ruby_developer/challenges/city_library)     | Console App   |
+| [Cookbook](https://github.com/victor-cleber/dio_bootcamps/tree/main/ruby_developer/challenges/cookbook)            | Console App |
+| [CPF Validation](https://github.com/victor-cleber/dio_bootcamps/tree/main/ruby_developer/challenges/cpf_validation)            |Console App        |
+| [Cookbook](https://github.com/victor-cleber/dio_bootcamps/tree/main/ruby_developer/challenges/cookbook)            | Console App |
+| [School](https://github.com/victor-cleber/dio_bootcamps/tree/main/ruby_developer/challenges/scholl)            | Console App |
+| [Supermarket](https://github.com/victor-cleber/dio_bootcamps/tree/main/ruby_developer/challenges/supermarket)            | Console App |
+
+
+
 
 ## Credits
 
